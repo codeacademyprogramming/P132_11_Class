@@ -1,0 +1,13 @@
+Human
+ - Name
+ - Surname
+
+
+ Employee:Human
+
+ - Position
+ - Salary
+
+ 
+Name ve surname deyerleri teyin edilmeden
+ Human obyekti yaradila bilminmez

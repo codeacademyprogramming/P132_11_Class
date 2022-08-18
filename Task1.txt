@@ -1,0 +1,9 @@
+Car class
+ - Brand
+ - Model
+ - Year
+ - Price
+
+
+Verilmis car arrayindeki carlarin ortalama qiymetini 
+hesablayan metod yazirsiniz

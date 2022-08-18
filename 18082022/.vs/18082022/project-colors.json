@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a444b611-05b1-402c-8bba-e3c244c25f5e": {
+      "ProjectGuid": "a444b611-05b1-402c-8bba-e3c244c25f5e",
+      "DisplayName": "Homeworks",
+      "ColorIndex": 0
+    },
+    "60750ee2-ba3f-41c5-9027-8426dc2f93d3": {
+      "ProjectGuid": "60750ee2-ba3f-41c5-9027-8426dc2f93d3",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "00ea3bfb-c4f1-40b9-824a-4b4f3d5e158f": {
+      "ProjectGuid": "00ea3bfb-c4f1-40b9-824a-4b4f3d5e158f",
+      "DisplayName": "Tasks",
+      "ColorIndex": 2
+    },
+    "f49e434f-ec70-4408-be1a-a9a624748b08": {
+      "ProjectGuid": "f49e434f-ec70-4408-be1a-a9a624748b08",
+      "DisplayName": "Task2",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
